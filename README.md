@@ -9,7 +9,7 @@ Introducão a Desenvolvimento Web
 Trabalho Avaliativo 01
 
 
-CASO QUEIRA ACESSAR O PROJETO :  https://kadufariass.github.io/Quiz-sobre-HTML---Int.Dev.Web/
+PARA ACESSAR O PROJETO :  https://kadufariass.github.io/Quiz-sobre-HTML---Int.Dev.Web/
               
 
 == Apresentação do Projeto: Quiz sobre HTML == 
