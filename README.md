@@ -59,12 +59,6 @@ exibição de perguntas, validação de respostas e cálculo de resultados.
 Além disso, o projeto inclui um arquivo CSS (`style.css`) para estilizar a aparência do quiz e 
 torná-lo mais atraente visualmente. 
  
-== Conclusão == 
- 
-O projeto do quiz sobre motos é uma ótima maneira de testar e aprimorar o conhecimento 
-sobre motocicletas, enquanto também oferece uma experiência interativa e divertida para os 
-usuários. Esperamos que você aproveite o quiz e aprenda algo novo sobre o mundo das motos! 
- 
  
 == Explicação do Código HTML (index.html e quiz.html) == 
  
